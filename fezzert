@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FEZZERT ELECTRONICS COMPANY LIMITED</title>
+    <link rel="stylesheet" href="mine.css">
+</head>
+<body>
+    
+<button class="join">JOIN</button>
+
+<h1> FEZZERT ELECTRONICS COMPANY</h1>
+<h3> GIVES YOU THE BEST QUALITY AND SATISFACTION </h3>
+<a href=""></a><input type="search" name="" id="" placeholder="Search interest" class="search">
+</body>
+</html>
